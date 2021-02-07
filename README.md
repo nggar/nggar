@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, It's Enggar 👋
 
-<!--
-**nggar/nggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Front-end Developer! 💻
 
-Here are some ideas to get you started:
+- :book: &nbsp;I’m currently learning React JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Challenges and Projects 🚀
+
+- [DevChallenges](https://github.com/nggar/devchallenges.io) :   
+⏳ (50%) Responsive Web Developer Path
+---
+
+### Languages and Tools 🛠️
+
+- ✔️ &nbsp;- &nbsp;<img align="center" alt="HTML5" title="HTML" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;<img align="center" alt="CSS3" title="CSS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp; <img align="center" alt="Sass" title="Sass" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp; <img align="center" alt="Bootstrap" title="Bootstrap" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />&nbsp; <img align="center" alt="JavaScript" title="Javascript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp; <img align="center" alt="Visual Studio Code" title="VS Code" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp; <img align="center" alt="Git" title="Git" width="25px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+
+- ⏳ &nbsp;- &nbsp;<img align="center" alt="React" title="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+---
+
+### Connect with me 💬
+
+- <img align="center" alt="Gmail" title="Email" width="26px" src="https://i.imgur.com/z4nhZMh.png" /> - &nbsp;jihandokoengg@gmail.com
+
