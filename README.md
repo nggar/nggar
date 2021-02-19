@@ -10,6 +10,8 @@
 
 - [DevChallenges](https://github.com/nggar/devchallenges.io) :   
 ⏳ (75%) Responsive Web Developer Path
+
+- [HTML/CSS-Projects](https://github.com/nggar/html-css-projects).
 ---
 
 ### Languages and Tools 🛠️
