@@ -1,8 +1,8 @@
 ### Hi there, It's Enggar 👋
 
-## I'm a Front-end Developer! 💻
+## I'm a Web Developer! 💻
 
-- :book: &nbsp;I’m currently learning React JS
+- :book: &nbsp;I’m currently learning Javascript & React JS
 
 ---
 
