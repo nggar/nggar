@@ -8,7 +8,7 @@
 
 ### Challenges and Projects 🚀
 
-- [DevChallenges](https://github.com/nggar/devchallenges.io) :   
+- [DevChallenges.io](https://github.com/nggar/devchallenges.io) :   
 ⏳ (75%) Responsive Web Developer Path
 - [Responsive Web Design Projects](https://github.com/nggar/html-css-projects) <br>
   HTML, CSS, SASS, Bootstrap, Tailwind, and jQuery
