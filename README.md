@@ -10,8 +10,8 @@
 
 - [DevChallenges](https://github.com/nggar/devchallenges.io) :   
 ⏳ (75%) Responsive Web Developer Path
-- [Responsive Web Design Projects](https://github.com/nggar/html-css-projects)
-  Using HTML, CSS, SCSS, Bootstrap, Tailwind, and jQuery
+- [Responsive Web Design Projects](https://github.com/nggar/html-css-projects) <br>
+  HTML, CSS, SASS, Bootstrap, Tailwind, and jQuery
 ---
 
 ### Languages and Tools 🛠️
