@@ -1,6 +1,6 @@
 ### Hi there, It's Enggar 👋
 
-## I'm a Web Developer! 💻
+## I'm a Front-end Web Developer ! 💻
 
 - :book: &nbsp;I’m currently learning Javascript & React JS
 
@@ -10,7 +10,8 @@
 
 - [DevChallenges](https://github.com/nggar/devchallenges.io) :   
 ⏳ (75%) Responsive Web Developer Path
-- [HTML/CSS Projects](https://github.com/nggar/html-css-projects).
+- [Responsive Web Design Projects](https://github.com/nggar/html-css-projects)
+  Using HTML, CSS, SCSS, Bootstrap, Tailwind, and jQuery
 ---
 
 ### Languages and Tools 🛠️
