@@ -2,7 +2,7 @@
 
 ## I'm a Front-end Web Developer ! 💻
 
-- :book: &nbsp;I’m currently learning Javascript & React JS
+- :book: &nbsp;I’m currently learning Javascript
 
 ---
 
@@ -11,7 +11,7 @@
 - [DevChallenges.io](https://github.com/nggar/devchallenges.io) :   
 ⏳ (7/8) Responsive Web Developer Path
 - [Responsive Web Design Projects](https://github.com/nggar/html-css-projects) <br>
-  HTML, CSS, SASS
+  HTML, CSS, SCSS
 ---
 
 ### Languages and Tools 🛠️
