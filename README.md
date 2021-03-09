@@ -9,7 +9,7 @@
 ### Challenges and Projects 🚀
 
 - [DevChallenges.io](https://github.com/nggar/devchallenges.io) :   
-⏳ (7/8) Responsive Web Developer Path
+✔️ (100%) Responsive Web Developer Path
 - [Responsive Web Design Projects](https://github.com/nggar/html-css-projects) <br>
   HTML, CSS, SCSS
 ---
