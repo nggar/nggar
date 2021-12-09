@@ -11,7 +11,7 @@
 - [Devchallenges.io](https://github.com/nggar/devchallenges.io) :   
 ✔️ (100%) Responsive Web Developer Path
 - [Frontendmentor.io](https://github.com/nggar/frontendmentor.io) :   
-2 Projects
+4 Projects
 - [Responsive Web Design Projects](https://github.com/nggar/html-css-projects) :    
 HTML, CSS, Javascript
 
