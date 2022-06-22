@@ -2,7 +2,7 @@
 
 ## I'm a Front-end Web Developer ! 💻
 
-- :book: &nbsp;I’m currently learning Javascript
+- :book: &nbsp;I’m currently learning React Js
 
 ---
 
