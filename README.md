@@ -4,8 +4,8 @@
 
 ### Projects
 
+- [Music player](https://github.com/nggar/music-player)
 - [Devchallenges.io](https://github.com/nggar/devchallenges.io)
-- [Music Player](https://github.com/nggar/music-player)
 
 ### Languages and Tools
 
