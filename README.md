@@ -2,8 +2,6 @@
 
 ## I'm a React Js Developer
 
----
-
 ### Projects
 
 - [Devchallenges.io](https://github.com/nggar/devchallenges.io)
