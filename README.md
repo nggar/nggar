@@ -1,4 +1,4 @@
-### Hi, my name is Enggar
+### Hello, my name is Enggar
 
 ## I'm a React Js Developer
 
